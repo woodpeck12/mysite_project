@@ -1,2 +1,3 @@
 # mysite_project
 this is purely practice....
+https://www.kancloud.cn/english/mastering-django/79684
